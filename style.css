@@ -1,0 +1,8 @@
+@font-face{font-family:'webfont';font-display:swap;src:url('font/webfont.eot');src:url('font/webfont.eot?#iefix') format('embedded-opentype'),url('font/webfont.woff2') format('woff2'),url('font/webfont.woff') format('woff'),url('font/webfont.ttf') format('truetype'),url('font/webfont.svg#webfont') format('svg')}.web-font{color:white;font-family:"webfont"!important;font-size:36px;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{background:linear-gradient(black,75%,mediumaquamarine)}.corner{position:fixed;top:0;left:0;width:0;height:0;border-width:60px;border-style:solid;border-color:teal transparent transparent teal;z-index:100000}.corner h2{position:relative;top:-75px;left:-50px;color:white}hr{width:95%}.container{margin-top:30px}.panel{border:0}.panel-body{height:385px;overflow:scroll}.panel-collapse{position:absolute;background-color:white;margin-top:34px}.thumbnail{display:inline-block;overflow:hidden;background-color:#000}.thumbnail:hover{background-color:white;border-color:white}.gallery .panel-heading{position:absolute;z-index:999;width:100%;margin-left:-4px;margin-top:-4px}.thumbnail img{margin-top:34px;transition:.5s ease-in;opacity:.5}.thumbnail img:hover{opacity:1;transform:scale(1.2);transition:.5s ease-out}footer{background-color:teal;border-radius:0 50px 0 0;position:fixed;bottom:0;left:0;width:60%;z-index:1000000}footer li{list-style:none;display:inline-block}.link{margin-top:22px;text-align:center}.link a{color:white;vertical-align:middle;margin:0 10px}
+
+	
+
+
+
+
+
